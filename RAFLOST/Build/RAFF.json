@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RAFLOST_",
+"dataUrl": "RAFF.data.unityweb",
+"asmCodeUrl": "RAFF.asm.code.unityweb",
+"asmMemoryUrl": "RAFF.asm.memory.unityweb",
+"asmFrameworkUrl": "RAFF.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
